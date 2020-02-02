@@ -17,5 +17,9 @@ contacts.each do |person, contact_details_hash|
 end
   
 def remove_strawberry(contacts)
-
+> person
+=> "Jon Snow"
+ 
+> contact_details_hash
+=> {:name=>"Jon", :email=>"jon_snow@thewall.we", :favorite_ice_cream_flavors=>["chocolate", "vanilla"]}
 end
